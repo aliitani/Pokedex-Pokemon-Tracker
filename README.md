@@ -9,7 +9,7 @@
   <ul>
     <li>MAMP</li>
     <li>MySQL</li>
-    <li>HTML | CSS & BootStrap | JavaScript</li>
+    <li>HTML | CSS (BootStrap) | JavaScript</li>
   </ul>
 
 
