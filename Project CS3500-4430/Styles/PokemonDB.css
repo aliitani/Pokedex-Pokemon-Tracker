@@ -1,0 +1,25 @@
+html, body {
+    background-color: #e5eae5;
+}
+#navbar {
+    background-color: #d9534f;
+    color: white;
+    border: 2px solid #d9534f;
+    border-top-right-radius: 0;
+    border-top-left-radius: 0;
+    border-bottom: 10px;
+}
+#navbar a{
+    color: white;
+}
+#logout {
+    color:white;
+}
+footer {
+    background-color: #d9534f;
+    padding: 0.5em;
+    border: 2px solid #d9534f;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    color: white;
+}

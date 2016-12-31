@@ -1,0 +1,31 @@
+html, body {
+    background-color:#e5eae5;
+}
+button a {
+    color: white;
+}
+#box {
+    width: 60vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+h2{
+    margin-bottom: 2em;
+}
+#box button{
+    margin-bottom: 1em;
+    padding:2em;
+}
+header, h1 {
+    color: white;
+    background-color: #d9534f;
+    margin-bottom: 3em;
+    padding-left: 1em;
+    padding-top: 1em;
+}
+header {
+    border-radius: 10px;
+}
+h1 {
+    padding-bottom: 0.5em;
+}

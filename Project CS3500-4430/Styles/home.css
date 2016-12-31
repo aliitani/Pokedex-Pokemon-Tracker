@@ -1,0 +1,22 @@
+footer {
+    background-color: #d9534f;
+    padding-bottom: 1.2em;
+    color:white;
+    margin-top: 10vw;
+}
+header, h1 {
+    color: white;
+    background-color: #d9534f;
+    margin-bottom: 3em;
+    padding-left: 1em;
+    padding-top: 1em;
+}
+header {
+    border-radius: 10px;
+}
+h1 {
+    padding-bottom: 0.5em;
+}
+html, body {
+    background-color:#e5eae5;
+}
