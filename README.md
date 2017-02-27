@@ -9,7 +9,7 @@
   <ul>
     <li>MAMP</li>
     <li>MySQL</li>
-    <li>HTML | CSS (BootStrap) | JavaScript</li>
+    <li>HTML | CSS (BootStrap) | JavaScript | PHP</li>
   </ul>
   <p>Screen Shots:</p>
   <img width="1148" alt="screen shot 2016-12-30 at 9 17 50 pm" src="https://cloud.githubusercontent.com/assets/19563826/21575422/80a8cb2a-ced9-11e6-9d7c-1d473ec2955f.png">
